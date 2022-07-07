@@ -15,7 +15,5 @@ Question template:-
 You can view the Project report for all the detailed solutions and codes.
 
 Team members:-
-
-Kedar Deshpande
-
+Kedar Deshpane,
 Aakash Khot
